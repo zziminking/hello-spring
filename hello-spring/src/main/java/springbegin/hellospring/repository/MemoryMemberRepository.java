@@ -1,5 +1,6 @@
 package springbegin.hellospring.repository;
 
+import org.springframework.stereotype.Repository;
 import springbegin.hellospring.domain.Member;
 
 import java.util.*;
